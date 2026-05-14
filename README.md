@@ -224,13 +224,15 @@ predict_image(model, image_index=331, dataset=test_dataset)
 
 
 ## Classification Report
-<img width="431" height="336" alt="image" src="https://github.com/user-attachments/assets/28ebb29c-d0e8-476d-85fc-847bbdb6f9f7" />
+<img width="481" height="408" alt="image" src="https://github.com/user-attachments/assets/dc3001fc-ed59-4faa-afcc-48ac0dc00db1" />
+
 
 
 
 ### New Sample Data Prediction
 
-<img width="395" height="485" alt="image" src="https://github.com/user-attachments/assets/d66eed51-5b7a-4d61-a3bb-7f4c7b38d4ab" />
+<img width="455" height="559" alt="image" src="https://github.com/user-attachments/assets/567ecfb0-bbe2-4c3e-8c36-5c079b0b03eb" />
+
 
 ## RESULT
 Thus, the program executed successfuly 
